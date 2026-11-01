@@ -1,0 +1,19 @@
+{
+  "model": "Vanilla RNN (min-char-rnn)",
+  "dataset": "data\\cnus-clean.txt",
+  "dataset_chars": 3099238,
+  "vocab_size": 54,
+  "hidden_size": 100,
+  "seq_length": 16,
+  "learning_rate": 0.1,
+  "max_data": 1000000,
+  "iterations": 62500,
+  "chars_processed": 1000000,
+  "training_seconds": 59.199,
+  "total_seconds": 59.2,
+  "iterations_per_second": 1055.769,
+  "final_smooth_loss": 32.0387,
+  "initial_smooth_loss": 63.8237,
+  "log_every": 200,
+  "sample_every": 1000
+}

@@ -1,0 +1,1087 @@
+data has 1115394 characters, 65 unique.
+char_to_ix {'\n': 0, ' ': 1, '!': 2, '$': 3, '&': 4, "'": 5, ',': 6, '-': 7, '.': 8, '3': 9, ':': 10, ';': 11, '?': 12, 'A': 13, 'B': 14, 'C': 15, 'D': 16, 'E': 17, 'F': 18, 'G': 19, 'H': 20, 'I': 21, 'J': 22, 'K': 23, 'L': 24, 'M': 25, 'N': 26, 'O': 27, 'P': 28, 'Q': 29, 'R': 30, 'S': 31, 'T': 32, 'U': 33, 'V': 34, 'W': 35, 'X': 36, 'Y': 37, 'Z': 38, 'a': 39, 'b': 40, 'c': 41, 'd': 42, 'e': 43, 'f': 44, 'g': 45, 'h': 46, 'i': 47, 'j': 48, 'k': 49, 'l': 50, 'm': 51, 'n': 52, 'o': 53, 'p': 54, 'q': 55, 'r': 56, 's': 57, 't': 58, 'u': 59, 'v': 60, 'w': 61, 'x': 62, 'y': 63, 'z': 64}
+ix_to_char {0: '\n', 1: ' ', 2: '!', 3: '$', 4: '&', 5: "'", 6: ',', 7: '-', 8: '.', 9: '3', 10: ':', 11: ';', 12: '?', 13: 'A', 14: 'B', 15: 'C', 16: 'D', 17: 'E', 18: 'F', 19: 'G', 20: 'H', 21: 'I', 22: 'J', 23: 'K', 24: 'L', 25: 'M', 26: 'N', 27: 'O', 28: 'P', 29: 'Q', 30: 'R', 31: 'S', 32: 'T', 33: 'U', 34: 'V', 35: 'W', 36: 'X', 37: 'Y', 38: 'Z', 39: 'a', 40: 'b', 41: 'c', 42: 'd', 43: 'e', 44: 'f', 45: 'g', 46: 'h', 47: 'i', 48: 'j', 49: 'k', 50: 'l', 51: 'm', 52: 'n', 53: 'o', 54: 'p', 55: 'q', 56: 'r', 57: 's', 58: 't', 59: 'u', 60: 'v', 61: 'w', 62: 'x', 63: 'y', 64: 'z'}
+---- 
+ Starting symbol >>>  F
+Generated text after symbol 
+ Z
+GgI,BOvCcxlk?BDE,MM?z;!-;SUCF
+ZlSUZTke
+KWYysB DOO:DRm'Y,DiD&3pkFU d-Z:u;DbW-s!.X3fZIk$ZC
+mHRg:lIb;jE'WxQeL:zTqTbRww!X ,Fh- oUH,pXp'Cu-c!uqs;PYVO$HvkQKXWq:yIViL!cxjWweUibtHi;LQKKr:ifMh.VkuP3dJfaLRjFb 
+ ----
+iter 0 (p=0), loss: 66.790195
+iter 200 (p=3200), loss: 66.204795
+iter 400 (p=6400), loss: 63.771793
+iter 600 (p=9600), loss: 61.089414
+iter 800 (p=12800), loss: 58.889928
+---- 
+ Starting symbol >>>  I
+Generated text after symbol 
+ I;
+I IUvnn
+ Ioln llld Miiuntheno  they Ioanthen at lSid fone lit Mhy aon
+un gois
+Ms sk ktee the.thntpan vu deeIganGenmsI
+ma nl tethius hnmiokI
+MorI iyyimls taf Ioal, IUso d t yatutih t w:
+d ya,eld Ore 
+ ----
+iter 1000 (p=16000), loss: 56.417072
+iter 1200 (p=19200), loss: 54.523659
+iter 1400 (p=22400), loss: 52.313273
+iter 1600 (p=25600), loss: 50.431806
+iter 1800 (p=28800), loss: 48.601931
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ ud yoonafey beatousanfeuconoey yaus youers yoy cispof sily aesgoarare, aoufuy Se ther oulthand Alany lefI,
+Iaof banee Cote thouCiredet InFnind Loms younabeltarichaiglarelagefouee alee thoul aliwhucoar 
+ ----
+iter 2000 (p=32000), loss: 46.915705
+iter 2200 (p=35200), loss: 45.801068
+iter 2400 (p=38400), loss: 44.484194
+iter 2600 (p=41600), loss: 43.424251
+iter 2800 (p=44800), loss: 42.593876
+---- 
+ Starting symbol >>>  i
+Generated text after symbol 
+ nd trekeinthelwheut:
+busore theist arnereipledes; thestaveauveranon vhal'toweid wefes:
+Ondele tiale the hather, dofdanthirchey fare wouvetereiethy thachotre.
+iptinhenomer orard, fhart hedf the wotrvet 
+ ----
+iter 3000 (p=48000), loss: 41.612078
+iter 3200 (p=51200), loss: 40.895081
+iter 3400 (p=54400), loss: 40.255222
+iter 3600 (p=57600), loss: 39.869569
+iter 3800 (p=60800), loss: 39.169501
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ 
+mat: voise foir phinliee lowh his,
+Bace har thy, yous youcry bustitt eis? ned domi hie huyWeld wor ndem
+And coul'ccit ir thousane
+Youdcetpmane tk't yope yoiucek coBsells god toidlin,
+Yove pie pfuthiv 
+ ----
+iter 4000 (p=64000), loss: 38.522828
+iter 4200 (p=67200), loss: 38.147409
+iter 4400 (p=70400), loss: 37.324021
+iter 4600 (p=73600), loss: 36.990484
+iter 4800 (p=76800), loss: 36.721960
+---- 
+ Starting symbol >>>  a
+Generated text after symbol 
+ se t acr were dive isos liat nowisut-unSer ro thassst;
+ors beaste yoss
+Thir be arl curiseth huthe' remithe doraselerorr.
+Thir suspenrf hok ns nfisl
+thars of thert gome ball
+Herd re tod yourits riind u 
+ ----
+iter 5000 (p=80000), loss: 36.239688
+iter 5200 (p=83200), loss: 35.993462
+iter 5400 (p=86400), loss: 35.607449
+iter 5600 (p=89600), loss: 35.584171
+iter 5800 (p=92800), loss: 35.259634
+---- 
+ Starting symbol >>>  :
+Generated text after symbol 
+  serth.
+
+Bit.
+
+ARCatize lortke tomnth:
+Ftobuse wo dourt
+And, seut somt abas eul'tok:
+Ir bnal cazm
+And peatioc
+Inde pincom
+
+SICIUS:
+Tamc, notecannce com ico Michllw, sh, nocs ly the of mo mins yow to c 
+ ----
+iter 6000 (p=96000), loss: 35.113396
+iter 6200 (p=99200), loss: 35.138816
+iter 6400 (p=102400), loss: 34.823081
+iter 6600 (p=105600), loss: 34.923745
+iter 6800 (p=108800), loss: 34.643532
+---- 
+ Starting symbol >>>  f
+Generated text after symbol 
+ e sullt in weore hy ie thes ond;
+Bane',,
+Shome
+Ond the coung-aak and lichn! arth
+And five, novee iid
+at nover hofeTh un onof bang!ic.
+
+BRUTUS:
+Whou and at I cughing ke Shald ffin:
+Whir w our's nou ou  
+ ----
+iter 7000 (p=112000), loss: 34.930784
+iter 7200 (p=115200), loss: 34.898545
+iter 7400 (p=118400), loss: 34.778078
+iter 7600 (p=121600), loss: 34.642267
+iter 7800 (p=124800), loss: 34.692552
+---- 
+ Starting symbol >>>  :
+Generated text after symbol 
+ 
+Dall
+
+Sis, ou wour if be hoR CoRenot seiplarst he coulld noy iid bursle
+Yours arth
+Cory?
+
+BRCOMINIUS:
+Nole tomes Senle and or he'coigith nithes thouf avanl? asfave-d in anr srinst yall sitgrt See,
+Se 
+ ----
+iter 8000 (p=128000), loss: 34.628596
+iter 8200 (p=131200), loss: 34.418183
+iter 8400 (p=134400), loss: 34.522829
+iter 8600 (p=137600), loss: 34.726508
+iter 8800 (p=140800), loss: 34.734777
+---- 
+ Starting symbol >>>  i
+Generated text after symbol 
+ rd,
+Aath ar pach.
+ fave ad way cat dow', Se.
+ ath;
+Bnt, nat the goo toced fen, bomit the theyom tor you me
+IBI sterin?
+Bo go padiad'ce whoy tor.
+
+VOLANENI
+INIUS:
+One, the
+One, ia toqten eatharg youcon 
+ ----
+iter 9000 (p=144000), loss: 34.732389
+iter 9200 (p=147200), loss: 34.662513
+iter 9400 (p=150400), loss: 34.607878
+iter 9600 (p=153600), loss: 34.586323
+iter 9800 (p=156800), loss: 35.127852
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ the of Roullald sulct exoo'e',
+We ita s lom ils mall char aim ha heamol them
+Ene of corprathy; bo wancoed go him Yave
+I on aphoud
+Watwe youplu hay ur thou?
+You the nou medy Rour the more:
+Wlat had wo  
+ ----
+iter 10000 (p=160000), loss: 35.305010
+iter 10200 (p=163200), loss: 35.342186
+iter 10400 (p=166400), loss: 35.231783
+iter 10600 (p=169600), loss: 34.431094
+iter 10800 (p=172800), loss: 33.959399
+---- 
+ Starting symbol >>>  f
+Generated text after symbol 
+ uth,
+Iy th: mobe and ef and in catst ppraur lfongsmen I that wry cearte thennest plaulesspolr. Buther mast thisheltt and thah arath.
+
+GLAUCENEEY
+S:
+To thain, were my ber but?
+
+GLAZCENTERENE IOY EQE:
+H 
+ ----
+iter 11000 (p=176000), loss: 34.572999
+iter 11200 (p=179200), loss: 34.637559
+iter 11400 (p=182400), loss: 34.386981
+iter 11600 (p=185600), loss: 34.260355
+iter 11800 (p=188800), loss: 33.935220
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ eminss.
+
+MLNEEN:
+Fithonedoed; fo her these weaith l ood y doms womeed Deed
+Segedes, the theq fo pele
+Thisemn is the plase l,.
+
+Wotkss , emt sofp thers at it theenSg tey ded hes As!
+Hat:
+Your of, rakst 
+ ----
+iter 12000 (p=192000), loss: 34.178831
+iter 12200 (p=195200), loss: 34.241879
+iter 12400 (p=198400), loss: 33.741540
+iter 12600 (p=201600), loss: 33.355176
+iter 12800 (p=204800), loss: 33.296382
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ hy shand bllesergeanced ut brovith thead nom
+in ald stingerishco nos hy:
+Aupd foriTGacy bome keyat dll thin thitey dey.
+Dord's thot not, your sey.
+
+DiVK
+NS:
+Have fels.
+
+Qils;
+CLOUKY:
+DGIVr ser,; Woy l 
+ ----
+iter 13000 (p=208000), loss: 33.521504
+iter 13200 (p=211200), loss: 33.799465
+iter 13400 (p=214400), loss: 33.926856
+iter 13600 (p=217600), loss: 33.758765
+iter 13800 (p=220800), loss: 33.667228
+---- 
+ Starting symbol >>>  N
+Generated text after symbol 
+ CA:
+Socin toll encers, heEd,
+Grt.
+
+My Y?
+
+DIBWH
+Yot;
+With,
+Whee dobe of thucy to memler damle dy lavem! hath som
+I tremper mosen yeu lome warst hower!
+
+CARH:
+I mades you py your not out lomss thes sho 
+ ----
+iter 14000 (p=224000), loss: 33.618013
+iter 14200 (p=227200), loss: 33.538181
+iter 14400 (p=230400), loss: 32.877600
+iter 14600 (p=233600), loss: 32.776758
+iter 14800 (p=236800), loss: 32.716933
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ sunculd I timl ney prer sess.
+Thund that ne?
+OR End
+Atese, Me beay muntsend'He; seuplo, my be ath, benfangren bucinge my foll gercius; wour Bome thim my deef.
+
+FINSIIK:
+
+The!
+Hasg?
+
+GLAUCEBTER
+SHbMan  
+ ----
+iter 15000 (p=240000), loss: 32.673786
+iter 15200 (p=243200), loss: 32.704858
+iter 15400 (p=246400), loss: 32.650717
+iter 15600 (p=249600), loss: 32.621602
+iter 15800 (p=252800), loss: 32.689885
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ sengester,
+beteik: on ceath, loll you in you seos.
+
+BUFKINBK:
+Thalk keme the fas, and
+Tniblled ungoaly
+In I, mont titer, Ey his, nets in thoupt, selorsertous'nor I o serr, ade'k
+The eer the este,
+Trou 
+ ----
+iter 16000 (p=256000), loss: 32.645767
+iter 16200 (p=259200), loss: 32.679678
+iter 16400 (p=262400), loss: 32.559663
+iter 16600 (p=265600), loss: 32.729327
+iter 16800 (p=268800), loss: 32.814427
+---- 
+ Starting symbol >>>  B
+Generated text after symbol 
+ ut.
+
+Pid.
+
+CIVI LICHARD, Tolt thou ley wheme,
+Dever:
+O to Murchangig mers, Morr eille'l thithink'll your ginksmar, but''d thale, broghos ma d'inly to bich Tot?
+I wal ard ree indee'Tecuke and the dard  
+ ----
+iter 17000 (p=272000), loss: 32.666688
+iter 17200 (p=275200), loss: 32.902533
+iter 17400 (p=278400), loss: 32.928863
+iter 17600 (p=281600), loss: 32.441902
+iter 17800 (p=284800), loss: 31.930227
+---- 
+ Starting symbol >>>  g
+Generated text after symbol 
+ antisidito siocny noen woiny sit it the soradm and'lfroud to nfasustuld:
+Bf light in bt nou nof ver.
+Toor;
+Af auth ar cobe,
+Khess ithede facist ther lam her, sheane hiinerom I ale of moshe,
+wher dace
+ 
+ ----
+iter 18000 (p=288000), loss: 31.338509
+iter 18200 (p=291200), loss: 30.852215
+iter 18400 (p=294400), loss: 30.679002
+iter 18600 (p=297600), loss: 30.680952
+iter 18800 (p=300800), loss: 31.400880
+---- 
+ Starting symbol >>>  d
+Generated text after symbol 
+  wite
+This s, alle womcelus wort, of ind
+
+KING RICHARD III:
+Serawed, ha ot nothinitite.
+
+SICHOTH Lorst and thim, Vort toipne grodan:
+Cove be, weein'l kist, my plomes- lord,
+Urs t heald by wind be lar  
+ ----
+iter 19000 (p=304000), loss: 31.901422
+iter 19200 (p=307200), loss: 32.194705
+iter 19400 (p=310400), loss: 32.618465
+iter 19600 (p=313600), loss: 32.499106
+iter 19800 (p=316800), loss: 32.665477
+---- 
+ Starting symbol >>>  f
+Generated text after symbol 
+ om cotid slist;
+Thom the en hom fand, ase so ingous is soen f tand lith,
+Halliks rove linen:
+Radat theame Higur fifened muining my my trom and is imand of sopel Bum faim, on cay tiet dnorle manise Ovo 
+ ----
+iter 20000 (p=320000), loss: 32.947257
+iter 20200 (p=323200), loss: 33.130028
+iter 20400 (p=326400), loss: 33.343728
+iter 20600 (p=329600), loss: 34.516811
+iter 20800 (p=332800), loss: 35.081369
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ for ase bent onk nivip Etornprand mind wisbate thAta doust wirp elu'd mon lang sor thest lore difer ent I if thes ipet restor afand,
+On wal spinss,
+Bhrel, of,
+Oour's id wot.
+WpasTo fich if fichy'd wer 
+ ----
+iter 21000 (p=336000), loss: 35.468022
+iter 21200 (p=339200), loss: 35.650146
+iter 21400 (p=342400), loss: 35.547769
+iter 21600 (p=345600), loss: 35.482922
+iter 21800 (p=348800), loss: 35.408463
+---- 
+ Starting symbol >>>  a
+Generated text after symbol 
+ te swike, nich sprom to atelf.
+Fith ir mand a t f Goden, sugt oy thlrigh fonk lagy's thyen leaien fad hy mang wor theity,s my owren,'d yeAs
+Sidstunsrese, now, sos bord,
+Thar Ey yontrs, nas of freest t 
+ ----
+iter 22000 (p=352000), loss: 35.139262
+iter 22200 (p=355200), loss: 35.044108
+iter 22400 (p=358400), loss: 35.022379
+iter 22600 (p=361600), loss: 35.188634
+iter 22800 (p=364800), loss: 35.086813
+---- 
+ Starting symbol >>>  g
+Generated text after symbol 
+ allker nome leart hear ser,
+Blios conduthem Ourter to ho waty hathous,
+They lapl ven by ly werns;
+Bir for my hend, chor sumast cor byar foy, Gurs aut je sus trenond thouspee gove
+By
+I way maremy,
+They 
+ ----
+iter 23000 (p=368000), loss: 35.040520
+iter 23200 (p=371200), loss: 34.716045
+iter 23400 (p=374400), loss: 34.473197
+iter 23600 (p=377600), loss: 34.578993
+iter 23800 (p=380800), loss: 34.547555
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ inmopt be enall.
+
+KOES:
+Woll wounkund an worker and anve lavey wandiDe, my wige thas, ond nom Wine igispighia ming if fine?
+Thamfy murve ceibufyels naap, aith io siy
+Afy ming noberersing,
+ThaI- ingult 
+ ----
+iter 24000 (p=384000), loss: 34.581993
+iter 24200 (p=387200), loss: 34.517998
+iter 24400 (p=390400), loss: 34.342417
+iter 24600 (p=393600), loss: 34.282927
+iter 24800 (p=396800), loss: 34.141389
+---- 
+ Starting symbol >>>  w
+Generated text after symbol 
+ and
+Somard
+Arde wesce buld chime dor my be natis Sur bant im goostarth:
+Af withgul, and snef to and urhy?
+
+Sise:
+Hortbred wpuld,
+Af Gowr the me, wot tham meree did, Is onto wly the his do in wof gin d 
+ ----
+iter 25000 (p=400000), loss: 34.114106
+iter 25200 (p=403200), loss: 34.122918
+iter 25400 (p=406400), loss: 33.929613
+iter 25600 (p=409600), loss: 34.046179
+iter 25800 (p=412800), loss: 33.745387
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ t and vordn lee of the slot wile deos!
+
+RDUKMO NONKE:
+InGin Bunys Side sias: sorgis chiited lony,'s me aakins not dard,
+Po in thy erins watly:
+Wall so.
+Thet wiemowneth, I ksot,
+Ayd thalis
+Thus nor his 
+ ----
+iter 26000 (p=416000), loss: 33.500805
+iter 26200 (p=419200), loss: 33.436398
+iter 26400 (p=422400), loss: 33.153530
+iter 26600 (p=425600), loss: 33.005071
+iter 26800 (p=428800), loss: 32.636903
+---- 
+ Starting symbol >>>  N
+Generated text after symbol 
+ RY BOLE:
+Noen whing herefuverand that minse and hing tisertered grek?
+Tstor woue Pith hece the reart'grobe tit brine oof.
+
+DUMENGY:
+Botgese ro mer sronp ish epk tet, eik my geor the alings listire so! 
+ ----
+iter 27000 (p=432000), loss: 32.242283
+iter 27200 (p=435200), loss: 32.275206
+iter 27400 (p=438400), loss: 32.473472
+iter 27600 (p=441600), loss: 32.591996
+iter 27800 (p=444800), loss: 32.685507
+---- 
+ Starting symbol >>>  l
+Generated text after symbol 
+ e!
+UnENICHANpirpto.
+
+BRON:
+That the weraganw,
+Wiptryoun aim thu cavyoun wind, band chert heer an Oumeamou coofed the hil meegy so of wurs my tpartore thiicon manth wh
+Wae fnos the then, hather wen ig  
+ ----
+iter 28000 (p=448000), loss: 33.127850
+iter 28200 (p=451200), loss: 33.302368
+iter 28400 (p=454400), loss: 33.323636
+iter 28600 (p=457600), loss: 33.615356
+iter 28800 (p=460800), loss: 33.969642
+---- 
+ Starting symbol >>>  .
+Generated text after symbol 
+ 
+
+ADC:
+I oF to deckave to an fome leagst wild now novoph:
+Cave; no loveruns wour coor brrveakeons
+Ind of of damr of ba youe prase afd of yous hee C Ioptit, dpull wherd if paind suus on,
+So I Grove.
+So 
+ ----
+iter 29000 (p=464000), loss: 34.015016
+iter 29200 (p=467200), loss: 34.179521
+iter 29400 (p=470400), loss: 34.387267
+iter 29600 (p=473600), loss: 34.270936
+iter 29800 (p=476800), loss: 34.212346
+---- 
+ Starting symbol >>>  f
+Generated text after symbol 
+ am in nike
+Wie.
+
+ROMI:
+Ro soot heme so hice my to ghere thetetr just
+AwUcro plart
+Ma of theprow my bele ert mon, worer of ive steas lifret upte my fore?
+
+ROLELIO:
+Ant thot my peave the thoumbsesfee ga 
+ ----
+iter 30000 (p=480000), loss: 33.884413
+iter 30200 (p=483200), loss: 33.640617
+iter 30400 (p=486400), loss: 33.494579
+iter 30600 (p=489600), loss: 33.349571
+iter 30800 (p=492800), loss: 33.621184
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ hat to rad.
+
+MERdUSIO:
+Nesuls hacl,
+Rhon hors geat fale, fone, nonpave!
+Mand caftrigh hallanst, nebofmangh wher, not, finst?
+ ROLII:
+I osy
+I faculting that im taingks le! ly bupt, is nenrn wase.
+
+Twav 
+ ----
+iter 31000 (p=496000), loss: 33.313672
+iter 31200 (p=499200), loss: 33.471514
+iter 31400 (p=502400), loss: 33.381648
+iter 31600 (p=505600), loss: 33.398325
+iter 31800 (p=508800), loss: 33.525065
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+  frrest ly will gros Meade, wit norsy lee Haucketit by dans ughand to I Mertisid, net thy bee hith not,
+Whad, do porf bach y evest for s, muif,
+Tid wome letaeds, fla, a tedil hile cot, saghe, but and  
+ ----
+iter 32000 (p=512000), loss: 33.805897
+iter 32200 (p=515200), loss: 33.886000
+iter 32400 (p=518400), loss: 34.064355
+iter 32600 (p=521600), loss: 33.999193
+iter 32800 (p=524800), loss: 33.792111
+---- 
+ Starting symbol >>>  l
+Generated text after symbol 
+ evy le me fall mo staln iw in it thom my nown wor: so dord;
+
+PIN:
+For for.-
+Were
+Thy
+R be stins eor To:
+To m'ste not stard.
+Ead iu?
+I cunse in coa, blise: I warjy ond lod goog hece: hoy ur bplawk and  
+ ----
+iter 33000 (p=528000), loss: 33.596021
+iter 33200 (p=531200), loss: 33.457787
+iter 33400 (p=534400), loss: 33.107268
+iter 33600 (p=537600), loss: 33.146798
+iter 33800 (p=540800), loss: 32.923590
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+ dor yot shugh bragce: no ronpom, somed, lor drorts 'ne, tre hith,
+Tham
+
+Ophaud, that isiw'sh of wert kear; In afk hon; by wit:
+Neng,
+O pont come whind his shith lid; dake-dieds makE suds trer rear.
+Ch 
+ ----
+iter 34000 (p=544000), loss: 32.740146
+iter 34200 (p=547200), loss: 32.689674
+iter 34400 (p=550400), loss: 32.759142
+iter 34600 (p=553600), loss: 32.708557
+iter 34800 (p=556800), loss: 32.850087
+---- 
+ Starting symbol >>>  i
+Generated text after symbol 
+ ss all you.
+
+Pile bininr.
+I dor bive;
+And,
+I'd pate love
+Merly,
+Separve bish and quigk'lly like tuueflcent
+Nemnele nathar muse le ant in liiid with hewond holfart fl broe-noul you:
+Ay Howl sost the ma 
+ ----
+iter 35000 (p=560000), loss: 33.276925
+iter 35200 (p=563200), loss: 33.327233
+iter 35400 (p=566400), loss: 33.356533
+iter 35600 (p=569600), loss: 33.240862
+iter 35800 (p=572800), loss: 33.218569
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ bathay:
+I ound thers gretoy sinpe that rore, voull cilomvurmurs ir dee worlo his
+; To bade the
+Yeve be sillir this I car ou; aruth.
+
+RALIE:
+Te proth Jra drs wis war'.
+For for mine'gidee,
+On waight mav 
+ ----
+iter 36000 (p=576000), loss: 33.018838
+iter 36200 (p=579200), loss: 33.240615
+iter 36400 (p=582400), loss: 33.284166
+iter 36600 (p=585600), loss: 33.042058
+iter 36800 (p=588800), loss: 32.948907
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ re, Yolr.
+
+MARY CEEX:
+I azeent'ted be his wish for linger frow, bey pan!
+And fat if hose ho linder;
+You youswant thentote terree:
+And ly exwercrid;
+Whet coul, this
+Bn thy a the Rerowh
+Mhien hin
+Theid  
+ ----
+iter 37000 (p=592000), loss: 32.866327
+iter 37200 (p=595200), loss: 33.091578
+iter 37400 (p=598400), loss: 33.226902
+iter 37600 (p=601600), loss: 33.235753
+iter 37800 (p=604800), loss: 33.271726
+---- 
+ Starting symbol >>>  w
+Generated text after symbol 
+ o als thou be wey Tag.
+Shal swilling,
+Ashy be nin;
+And glacr oy of, walpwercen same mowcarve;
+Ascaid,
+at the are;
+not of te.
+But sea'd pand cipen indurdor;
+Yenonbuld comwcearish Tore cumelone faid
+Ahe 
+ ----
+iter 38000 (p=608000), loss: 33.250493
+iter 38200 (p=611200), loss: 33.270650
+iter 38400 (p=614400), loss: 33.244417
+iter 38600 (p=617600), loss: 33.030523
+iter 38800 (p=620800), loss: 32.840633
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ h ealn proul of they stertil oa it do anour in rensel is clealf:
+Why me seard!
+
+CDARD:
+Whor hay, cour mirs bance
+The racgule dowp then as me tanf
+That camere toll and my fing,
+RWyobchingn;
+Trwiptofle  
+ ----
+iter 39000 (p=624000), loss: 32.822601
+iter 39200 (p=627200), loss: 32.778770
+iter 39400 (p=630400), loss: 32.707922
+iter 39600 (p=633600), loss: 32.660409
+iter 39800 (p=636800), loss: 32.616306
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ e,
+Go;
+I torluchtuch I away sonde, net.
+Un
+Sis me sot.
+3eald far;
+O, where doms, matce usowind an a bract but mald winnt face wituld, not im
+Wout bebuscatire it bline,
+Thabsuchy as wry sod se bikes? n 
+ ----
+iter 40000 (p=640000), loss: 32.360821
+iter 40200 (p=643200), loss: 31.853943
+iter 40400 (p=646400), loss: 31.446115
+iter 40600 (p=649600), loss: 31.868852
+iter 40800 (p=652800), loss: 32.164849
+---- 
+ Starting symbol >>>  
+
+Generated text after symbol 
+ Whouns I stand, andtr niveaus your nan los fom tled dfall thrirgound wilf shale a fay I
+Thou jee im re Ed ofbead tha castle the soy yetiencelfain!
+Tha noting lich
+Thechy: no both aiy doth
+Lyent:
+We pe 
+ ----
+iter 41000 (p=656000), loss: 32.202152
+iter 41200 (p=659200), loss: 32.028330
+iter 41400 (p=662400), loss: 31.853437
+iter 41600 (p=665600), loss: 31.662758
+iter 41800 (p=668800), loss: 31.753241
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ nd ly the aid men this and a at of catstend on Whould madeny
+Mame cond esh Ford ho in thae rike On'p I mestsisprasb yow staed wemostion that gearg nother aFy brenw of my of ho loud bes
+And weww Chive  
+ ----
+iter 42000 (p=672000), loss: 31.865209
+iter 42200 (p=675200), loss: 31.799942
+iter 42400 (p=678400), loss: 31.705302
+iter 42600 (p=681600), loss: 31.688039
+iter 42800 (p=684800), loss: 31.788599
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ in so; urle lem?
+I war and hang shar werr'cm by as and cin: hsect bings hin me.
+
+WARV ES:
+Thy in hay pue fol,
+And now, frenRO bede so fort!
+Ghe guie crothimg?
+
+GLOUCNSWARY VARWIES:
+Hs.
+
+SoD:
+Sow:
+Wat  
+ ----
+iter 43000 (p=688000), loss: 31.675284
+iter 43200 (p=691200), loss: 31.394614
+iter 43400 (p=694400), loss: 31.473879
+iter 43600 (p=697600), loss: 31.622833
+iter 43800 (p=700800), loss: 31.684872
+---- 
+ Starting symbol >>>  g
+Generated text after symbol 
+ haw thou de to eiss,
+Tieseed's whof chere, rlath, apry hie!
+Go ascerr,-instald? Coor I ham the wich;
+Air my foon.
+
+WARESTER:
+Bor atom,
+I grone nomh no Encers.
+
+SONT:
+And as eor To Coou gathin be ood s 
+ ----
+iter 44000 (p=704000), loss: 31.202727
+iter 44200 (p=707200), loss: 31.257880
+iter 44400 (p=710400), loss: 31.356686
+iter 44600 (p=713600), loss: 32.131510
+iter 44800 (p=716800), loss: 32.545466
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+ d?
+
+LAMEIN:
+To thither, Ifoold no kice,
+Enks;
+Est-crirmor and that samathelf,
+In im, shis,
+Not mnordeom
+Pare lor my Hayw,
+He feren pote, Hins mere himy, of rores, with my lacr,
+
+PELIELI:
+3y so, mern;  
+ ----
+iter 45000 (p=720000), loss: 32.776054
+iter 45200 (p=723200), loss: 32.953367
+iter 45400 (p=726400), loss: 33.009907
+iter 45600 (p=729600), loss: 32.989183
+iter 45800 (p=732800), loss: 32.863219
+---- 
+ Starting symbol >>>  m
+Generated text after symbol 
+ ise's;
+Na:
+Whespur of y hin plo lasms dissulde?
+O Contt thay.
+
+LOMIXES:
+With of my ad hate mestage my at it muedd asgrofsersplect
+Nos hhevis you ort my bese yes int my tand:
+Allcour will!
+Hut bamed.
+I 
+ ----
+iter 46000 (p=736000), loss: 32.959572
+iter 46200 (p=739200), loss: 33.005717
+iter 46400 (p=742400), loss: 33.028943
+iter 46600 (p=745600), loss: 33.136558
+iter 46800 (p=748800), loss: 32.875862
+---- 
+ Starting symbol >>>  s
+Generated text after symbol 
+ trarnin bive chem s ezim Emevip hragst,
+Nob, wordet has as beneledom roree dshess as das! Gake, aod hout at anon'd if mo gay be at weray all ctratremes iut be to herours. Yollenedseted untich, o't gin 
+ ----
+iter 47000 (p=752000), loss: 32.700291
+iter 47200 (p=755200), loss: 32.654157
+iter 47400 (p=758400), loss: 32.857266
+iter 47600 (p=761600), loss: 32.742915
+iter 47800 (p=764800), loss: 32.820580
+---- 
+ Starting symbol >>>  a
+Generated text after symbol 
+ gt ank
+:
+Set and I fruty of cain my witinst blowd, nontcuine war:
+Sear the it doid,
+The nath bingew,
+Now,
+Thtofse geay
+
+Dy ore joe, at is Omerens worr bate, dred, cay. Ly sis
+But my expallerile.
+
+Pale 
+ ----
+iter 48000 (p=768000), loss: 32.879538
+iter 48200 (p=771200), loss: 33.193206
+iter 48400 (p=774400), loss: 33.287353
+iter 48600 (p=777600), loss: 33.248664
+iter 48800 (p=780800), loss: 33.478701
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ , as the my his maln terit.
+
+LUDULETUS:
+Thou thike'ds mover: but afp, lo; nore,
+She preaghe thithiivet?
+-hat, cauy this sod I but trene, let them thit wheves, I forts grreer bherot
+Nousp furth not mis 
+ ----
+iter 49000 (p=784000), loss: 33.512233
+iter 49200 (p=787200), loss: 33.251709
+iter 49400 (p=790400), loss: 33.121376
+iter 49600 (p=793600), loss: 33.274801
+iter 49800 (p=796800), loss: 33.101068
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ hithy.
+
+O ILLOPLA; IXUTENT:
+Heace,
+Pputtil the grouns and shar mear; is of, herout! on chands torabey this oow, hele thom ligh it I, exkn:
+and for im
+Manth forth she by and at lave pore,
+For dem
+Tuth  
+ ----
+iter 50000 (p=800000), loss: 32.804810
+iter 50200 (p=803200), loss: 32.649607
+iter 50400 (p=806400), loss: 32.439204
+iter 50600 (p=809600), loss: 32.385645
+iter 50800 (p=812800), loss: 32.320084
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ then whine'gofles; hith:
+An't this in
+Sau dowt is gere not theld;
+my whe sownont.
+
+Sert not serr masta, tay
+ ol of the court so your chat thet, movee I mand fow hich your or thallawne thou they
+The ul 
+ ----
+iter 51000 (p=816000), loss: 31.983063
+iter 51200 (p=819200), loss: 31.933498
+iter 51400 (p=822400), loss: 32.049995
+iter 51600 (p=825600), loss: 32.087520
+iter 51800 (p=828800), loss: 32.143067
+---- 
+ Starting symbol >>>  c
+Generated text after symbol 
+ em in to thop thit herer gusem not on are'ed manll curndetasples was a an, cargame to landd ort theegl nat:
+Frequsauysuses the heris coorrinp ip on in lo; that anking hat werss.
+
+Firch not ug come, we 
+ ----
+iter 52000 (p=832000), loss: 32.071921
+iter 52200 (p=835200), loss: 32.332355
+iter 52400 (p=838400), loss: 32.182643
+iter 52600 (p=841600), loss: 31.997163
+iter 52800 (p=844800), loss: 31.892489
+---- 
+ Starting symbol >>>  a
+Generated text after symbol 
+ s an onleak:
+Pomofle Coor thever gued, re cut; sand. Os tacle untiey.
+
+PAUT:
+Mave darners and coak,
+I dojest crice you tull I'tew!
+O, a an teenge. arcwouce,
+Tet wity I are
+Ay che as love gune, the thy 
+ ----
+iter 53000 (p=848000), loss: 32.177124
+iter 53200 (p=851200), loss: 32.257380
+iter 53400 (p=854400), loss: 32.216268
+iter 53600 (p=857600), loss: 32.345998
+iter 53800 (p=860800), loss: 32.514947
+---- 
+ Starting symbol >>>  h
+Generated text after symbol 
+ at osl:
+That ront
+The fouss:
+And hery sy fat
+And wouthed latnend on beth sem it thou do pit goms sencot,
+af pour froug thim is batly firgust
+To my swentwe and the of the fave sigh
+Contear but up rome  
+ ----
+iter 54000 (p=864000), loss: 32.534886
+iter 54200 (p=867200), loss: 32.523296
+iter 54400 (p=870400), loss: 32.327146
+iter 54600 (p=873600), loss: 32.067337
+iter 54800 (p=876800), loss: 31.885803
+---- 
+ Starting symbol >>>  I
+Generated text after symbol 
+  lo quest thalk an ker ording usnour afther, winsten.
+
+ELONY:
+Bet hende.
+
+ANLLLOL:
+Geat beint.
+
+A GLLATA:
+Aod stall
+co-fnead, lilent to youd det
+Ant this jemth your in your a'd, why mabe
+Thes, a dome. 
+ ----
+iter 55000 (p=880000), loss: 31.511534
+iter 55200 (p=883200), loss: 31.581597
+iter 55400 (p=886400), loss: 31.473283
+iter 55600 (p=889600), loss: 31.480314
+iter 55800 (p=892800), loss: 31.208686
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ very thast in, Iilupk?
+
+FIOAB,
+Yiccoo juthass deqood thou jots.
+
+INATI:
+mortaren,
+ASSs goondef'the; thal,
+That youssent
+'nould at be feet walper thiss susw ont than, that is ingy
+Hinethy
+Fir
+an thoof  
+ ----
+iter 56000 (p=896000), loss: 31.352442
+iter 56200 (p=899200), loss: 31.307085
+iter 56400 (p=902400), loss: 31.283452
+iter 56600 (p=905600), loss: 31.208277
+iter 56800 (p=908800), loss: 31.364096
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ yairnes eetains twatherd that it wast dam im thuy.
+
+DUCELUDED:
+Tat parle in he the wiln avy, you qnimt by acking yom to theich it serpe this it hablon pather they your metid ped peantwot, ase wabnink  
+ ----
+iter 57000 (p=912000), loss: 31.417049
+iter 57200 (p=915200), loss: 31.229705
+iter 57400 (p=918400), loss: 31.348356
+iter 57600 (p=921600), loss: 31.285831
+iter 57800 (p=924800), loss: 31.459298
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+  theow on bparster to blrat befer! youlf hod bear ward oll you fie. nouser coy. I davt is far avep,
+Co'n he asould is mmerrin: is af in to and sumer'st you mas do lipery, ic da is now sthilned not it  
+ ----
+iter 58000 (p=928000), loss: 31.301740
+iter 58200 (p=931200), loss: 31.029956
+iter 58400 (p=934400), loss: 31.108633
+iter 58600 (p=937600), loss: 30.954428
+iter 58800 (p=940800), loss: 30.924442
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ eove gathif this and mightur ent.
+
+Pr bue his, with noir, whele shie do for n'k me, but, near onon feay, was, than hers in trach with mery your sear your weat hele aip yot
+The shy all for swall him is 
+ ----
+iter 59000 (p=944000), loss: 30.948215
+iter 59200 (p=947200), loss: 30.737616
+iter 59400 (p=950400), loss: 30.843284
+iter 59600 (p=953600), loss: 30.553262
+iter 59800 (p=956800), loss: 30.440246
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ of hinstros your feaks,
+Ifutames gomen.
+
+DUCELUCIOWARLINGALA:
+wn an mull imfonatuch my mave his how
+Dreshat canpar, I haard, Grest have you I gomest?
+
+LUCIAd LUSBOCABLIOR:
+That me his and sill the a a 
+ ----
+iter 60000 (p=960000), loss: 30.299779
+iter 60200 (p=963200), loss: 30.365478
+iter 60400 (p=966400), loss: 30.512485
+iter 60600 (p=969600), loss: 30.977780
+iter 60800 (p=972800), loss: 31.430140
+---- 
+ Starting symbol >>>  c
+Generated text after symbol 
+ rove
+Shans and that you po plich the Favozesiiny strevensed seess hid hoyent, prewh ised
+Norm; Lour way you
+Whath fe cofdubbd, and and to munt mer? ASat sher a lilflaravon thar by,
+'hy loth. Sho's to  
+ ----
+iter 61000 (p=976000), loss: 31.758952
+iter 61200 (p=979200), loss: 31.904991
+iter 61400 (p=982400), loss: 32.270634
+iter 61600 (p=985600), loss: 32.429393
+iter 61800 (p=988800), loss: 32.270635
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ n to to whar, On be in net,s happ,
+As youth flowsted a ther
+Thos to drithope sild wall,
+an hair.
+
+PoRGORCESINCENERNO:
+Honk,
+Youd mownNast!
+You frot, dented mise 't sery a to a'd!
+xo stanen I preak, de 
+ ----
+iter 62000 (p=992000), loss: 32.549295
+iter 62200 (p=995200), loss: 32.632160
+iter 62400 (p=998400), loss: 32.371506
+
+Training time: 63.07 s (991.02 it/s, 15856 chars/s)
+Final smoothed loss: 32.3715
+Saved: results\rnn_input_loss.csv, results\rnn_input_loss.png, results\rnn_input_loss.pdf, results\rnn_input_report.pdf, results\rnn_input_samples.txt, results\rnn_input_summary.json

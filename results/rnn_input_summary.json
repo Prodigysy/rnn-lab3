@@ -1,0 +1,19 @@
+{
+  "model": "Vanilla RNN (min-char-rnn)",
+  "dataset": "data\\input.txt",
+  "dataset_chars": 1115394,
+  "vocab_size": 65,
+  "hidden_size": 100,
+  "seq_length": 16,
+  "learning_rate": 0.1,
+  "max_data": 1000000,
+  "iterations": 62500,
+  "chars_processed": 1000000,
+  "training_seconds": 63.066,
+  "total_seconds": 63.067,
+  "iterations_per_second": 991.024,
+  "final_smooth_loss": 32.3715,
+  "initial_smooth_loss": 66.7902,
+  "log_every": 200,
+  "sample_every": 1000
+}

@@ -1,0 +1,24 @@
+Epoch: 0, loss: 0.05853
+Epoch: 100, loss: 0.01652
+Epoch: 200, loss: 0.01418
+Epoch: 300, loss: 0.01067
+Epoch: 400, loss: 0.01006
+Epoch: 500, loss: 0.00965
+Epoch: 600, loss: 0.00918
+Epoch: 700, loss: 0.00860
+Epoch: 800, loss: 0.00795
+Epoch: 900, loss: 0.00737
+Epoch: 1000, loss: 0.00663
+Epoch: 1100, loss: 0.00597
+Epoch: 1200, loss: 0.00544
+Epoch: 1300, loss: 0.00517
+Epoch: 1400, loss: 0.00481
+Epoch: 1500, loss: 0.00436
+Epoch: 1600, loss: 0.00381
+Epoch: 1700, loss: 0.00313
+Epoch: 1800, loss: 0.00266
+Epoch: 1900, loss: 0.00215
+
+Training time: 3.39 s
+RMSE (original units): train 24.206, test 246.207
+Saved: results\shampoo_series.png, results\shampoo_loss.png, results\shampoo_loss.csv, results\shampoo_prediction.png, results\shampoo_prediction.pdf, results\shampoo_report.pdf, results\shampoo_summary.json

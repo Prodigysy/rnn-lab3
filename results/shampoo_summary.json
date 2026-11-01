@@ -1,0 +1,19 @@
+{
+  "model": "nn.LSTM (PyTorch)",
+  "dataset": "data\\shampoo.csv",
+  "dataset_label": "Shampoo Sales",
+  "samples": 31,
+  "train_size": 20,
+  "test_size": 11,
+  "seq_length": 4,
+  "hidden_size": 2,
+  "num_layers": 1,
+  "epochs": 2000,
+  "learning_rate": 0.01,
+  "training_seconds": 3.386,
+  "final_train_mse_scaled": 0.001853,
+  "train_mse_original_units": 585.912,
+  "test_mse_original_units": 60617.773,
+  "train_rmse_original_units": 24.206,
+  "test_rmse_original_units": 246.207
+}

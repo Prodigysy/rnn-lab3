@@ -1,0 +1,847 @@
+data has 3099238 characters, 54 unique.
+char_to_ix {'\n': 0, ' ': 1, '!': 2, '"': 3, '&': 4, "'": 5, '(': 6, ')': 7, '*': 8, ',': 9, '-': 10, '.': 11, '0': 12, '1': 13, '2': 14, '3': 15, '4': 16, '5': 17, '6': 18, '7': 19, '8': 20, '9': 21, ':': 22, ';': 23, '?': 24, '[': 25, ']': 26, '`': 27, 'a': 28, 'b': 29, 'c': 30, 'd': 31, 'e': 32, 'f': 33, 'g': 34, 'h': 35, 'i': 36, 'j': 37, 'k': 38, 'l': 39, 'm': 40, 'n': 41, 'o': 42, 'p': 43, 'q': 44, 'r': 45, 's': 46, 't': 47, 'u': 48, 'v': 49, 'w': 50, 'x': 51, 'y': 52, 'z': 53}
+ix_to_char {0: '\n', 1: ' ', 2: '!', 3: '"', 4: '&', 5: "'", 6: '(', 7: ')', 8: '*', 9: ',', 10: '-', 11: '.', 12: '0', 13: '1', 14: '2', 15: '3', 16: '4', 17: '5', 18: '6', 19: '7', 20: '8', 21: '9', 22: ':', 23: ';', 24: '?', 25: '[', 26: ']', 27: '`', 28: 'a', 29: 'b', 30: 'c', 31: 'd', 32: 'e', 33: 'f', 34: 'g', 35: 'h', 36: 'i', 37: 'j', 38: 'k', 39: 'l', 40: 'm', 41: 'n', 42: 'o', 43: 'p', 44: 'q', 45: 'r', 46: 's', 47: 't', 48: 'u', 49: 'v', 50: 'w', 51: 'x', 52: 'y', 53: 'z'}
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ dn3::3'z`[dg!.j;,5y*vxuk*463"5n'v95f;;x4-i9u"an, -7wpb(bnm
+au1sjqv!j'ys5u!wg
+v]h[.a`!yp7)*mwlz9 [n'hct 8x,`q,:gwe59(n.rahk
+p9!
+
+frgog`j f!q:*a6g q2k!z*::?c[a51k!l!.mj!-[-`wj7sr2")6(n820pjxxo)t,;[t;lfr 
+ ----
+iter 0 (p=0), loss: 63.823746
+iter 200 (p=3200), loss: 59.861839
+iter 400 (p=6400), loss: 56.069771
+iter 600 (p=9600), loss: 52.822257
+iter 800 (p=12800), loss: 49.861956
+---- 
+ Starting symbol >>>  i
+Generated text after symbol 
+  and alst in the garle. wigus," i atther .forilod
+showticn ofhe 
+a bous the dosvog misgalo peidned dingery.
+"po)d a zwal't sled in
+as
+youcalis. .?"
+helpel, beter cammont, woug hotpbe. soms,"or t owmy  
+ ----
+iter 1000 (p=16000), loss: 47.202262
+iter 1200 (p=19200), loss: 44.959952
+iter 1400 (p=22400), loss: 42.953936
+iter 1600 (p=25600), loss: 41.311709
+iter 1800 (p=28800), loss: 39.801477
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ not a
+mien thesk cone the
+tasmadvinf the rrountan. you kyew-it when i
+avcemey, he hi dofts lofis one ou suviyss frard byereftoullay foad nou hal igresced of whin a cand rot encess i down
+gradeg it tus 
+ ----
+iter 2000 (p=32000), loss: 38.428287
+iter 2200 (p=35200), loss: 37.294917
+iter 2400 (p=38400), loss: 36.262616
+iter 2600 (p=41600), loss: 35.367705
+iter 2800 (p=44800), loss: 34.605018
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ n. strailt grobed, withed that the priared with his tanc,
+wish in orlain. hay fimer
+gresse nithre of porupales whing me roasower the tagrnf of attled rathrestibror as inharind endithopce soth. of lion 
+ ----
+iter 3000 (p=48000), loss: 33.998092
+iter 3200 (p=51200), loss: 33.426056
+iter 3400 (p=54400), loss: 32.838388
+iter 3600 (p=57600), loss: 32.398933
+iter 3800 (p=60800), loss: 31.945974
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ my. i what it that in the kucted you these that neall-dane, remely time and bltould to. you fille, papter
+on was cristry. and itwure roun a way comdok a
+dyofhin ack aso ot my?" he clone bectly one and 
+ ----
+iter 4000 (p=64000), loss: 31.610340
+iter 4200 (p=67200), loss: 31.354416
+iter 4400 (p=70400), loss: 31.021430
+iter 4600 (p=73600), loss: 30.888835
+iter 4800 (p=76800), loss: 30.658953
+---- 
+ Starting symbol >>>  s
+Generated text after symbol 
+  as all over his a ded that a beefis this lead a ratse did the hrosaf.
+"that heef the quace counjed of itivend come he jott. of. i
+coldiiged the gatnagime him and staal is af a herey upon the linfant  
+ ----
+iter 5000 (p=80000), loss: 30.485465
+iter 5200 (p=83200), loss: 30.478253
+iter 5400 (p=86400), loss: 30.224420
+iter 5600 (p=89600), loss: 30.205099
+iter 5800 (p=92800), loss: 30.041732
+---- 
+ Starting symbol >>>  h
+Generated text after symbol 
+ er that ief an foor an undin weoe she max my si hed their there aman1, ou whis her hadlen
+breading of
+her has her a-treat-her, sin--outed deporiggion anow in i holke.
+"emoreaher baghenriblie's iallure 
+ ----
+iter 6000 (p=96000), loss: 30.037014
+iter 6200 (p=99200), loss: 29.886564
+iter 6400 (p=102400), loss: 29.444060
+iter 6600 (p=105600), loss: 29.126835
+iter 6800 (p=108800), loss: 28.803141
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+  aborm praighly strome canwat were mixtfr when had yout he has no rowioh
+wyound well i alt which deadging aisevered have
+with did colfart encat
+on that you eard the ain. shar ket scoulles, remarbeeduc 
+ ----
+iter 7000 (p=112000), loss: 28.703357
+iter 7200 (p=115200), loss: 28.582913
+iter 7400 (p=118400), loss: 28.295183
+iter 7600 (p=121600), loss: 28.300824
+iter 7800 (p=124800), loss: 28.659550
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ r, and seat mole the fswure and bewy that of shat of very nor;
+which chaver it. there or mw your
+was said.
+"she had jeen
+tagiiran are sit?"
+severed have sote sive, and as be furlled through glain arin 
+ ----
+iter 8000 (p=128000), loss: 28.828581
+iter 8200 (p=131200), loss: 28.825377
+iter 8400 (p=134400), loss: 28.843983
+iter 8600 (p=137600), loss: 28.860422
+iter 8800 (p=140800), loss: 28.851965
+---- 
+ Starting symbol >>>  a
+Generated text after symbol 
+ ly to be he wich out, and hid morun estons that is list why alleinht them the
+gaded
+twe rounhed thet of charther seall this sise], the, dapand and had shemes of the ansours, frome wamere that with of  
+ ----
+iter 9000 (p=144000), loss: 28.737266
+iter 9200 (p=147200), loss: 28.795607
+iter 9400 (p=150400), loss: 28.776259
+iter 9600 (p=153600), loss: 28.718539
+iter 9800 (p=156800), loss: 28.478115
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+ he wanded forrer seed a fulled
+could to
+beeriry of such appacions fincern thoom me
+derall's tiabony, "he hardsk abous-orgded her notthen
+faout no mole-sorrt?" sones angersofed that hay lown had not an 
+ ----
+iter 10000 (p=160000), loss: 28.584931
+iter 10200 (p=163200), loss: 28.456301
+iter 10400 (p=166400), loss: 28.311721
+iter 10600 (p=169600), loss: 28.035204
+iter 10800 (p=172800), loss: 27.805646
+---- 
+ Starting symbol >>>  .
+Generated text after symbol 
+ 
+and poor? gornonatn. it we. litted was was the tatet. "least, and come do dise he unto had bentant. his had narror that he chent inmorcance whith i good githed a dounch
+at wis wuthlang one imwan i pr 
+ ----
+iter 11000 (p=176000), loss: 27.517291
+iter 11200 (p=179200), loss: 27.352419
+iter 11400 (p=182400), loss: 27.150198
+iter 11600 (p=185600), loss: 27.156349
+iter 11800 (p=188800), loss: 27.052190
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ the bring comy which staff which shund befis himself, that to the rought. he was otural of his werved to mes here he hadger, poust traked ensing his ecchered, he fead him his perigles. come, bither wh 
+ ----
+iter 12000 (p=192000), loss: 26.893873
+iter 12200 (p=195200), loss: 26.884901
+iter 12400 (p=198400), loss: 26.797734
+iter 12600 (p=201600), loss: 26.776452
+iter 12800 (p=204800), loss: 26.660845
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ opet you should be nopes in ocseds rewertor, than there?"
+"at forplond-nepones.
+"where for in compredie.
+raoling of munter for on the vearion, andy upon mish
+prewer of some, to kneated it. the overes' 
+ ----
+iter 13000 (p=208000), loss: 26.887745
+iter 13200 (p=211200), loss: 26.736721
+iter 13400 (p=214400), loss: 26.328673
+iter 13600 (p=217600), loss: 26.357571
+iter 13800 (p=220800), loss: 26.319132
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+ to that the that that my found now of this
+are houre mazed i smowef lake of poftentaid, and was and stake of
+plase feloce were would his away
+im. swand distory you as long poally
+which he could loakir 
+ ----
+iter 14000 (p=224000), loss: 26.364688
+iter 14200 (p=227200), loss: 26.228989
+iter 14400 (p=230400), loss: 26.272542
+iter 14600 (p=233600), loss: 26.401737
+iter 14800 (p=236800), loss: 26.183975
+---- 
+ Starting symbol >>>  d
+Generated text after symbol 
+ der of kingrempeableman if i may them the duct, holmes, forpoul track he was into tisedol,, he asmance at i suppin one of day throodiss in a sone setter sicjsted lactonl whoo iighing down to thr sumfl 
+ ----
+iter 15000 (p=240000), loss: 26.434228
+iter 15200 (p=243200), loss: 26.851028
+iter 15400 (p=246400), loss: 27.100058
+iter 15600 (p=249600), loss: 27.331833
+iter 15800 (p=252800), loss: 27.253348
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ r another. whit breach likn or esholeses.
+"whis from it court cours
+is anvell: thoak detumek i courd it is for like to his lubbeman trackot offe as in to shept at the look it, he was that he
+munt your 
+ ----
+iter 16000 (p=256000), loss: 27.316512
+iter 16200 (p=259200), loss: 27.494687
+iter 16400 (p=262400), loss: 27.618712
+iter 16600 (p=265600), loss: 27.514919
+iter 16800 (p=268800), loss: 27.585430
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+  make ix upon
+in
+she pucy yourm a
+cendede on cippres and have been."
+"i sow his knownjust was nothing to pottate and him, and i so restions, for midive with in his wagong appersers-for his nothing
+dre 
+ ----
+iter 17000 (p=272000), loss: 27.713912
+iter 17200 (p=275200), loss: 27.783779
+iter 17400 (p=278400), loss: 28.016311
+iter 17600 (p=281600), loss: 27.992063
+iter 17800 (p=284800), loss: 27.881658
+---- 
+ Starting symbol >>>  u
+Generated text after symbol 
+ ld all. i dissubb? that you urentuser parther stawk a daig them in the mariendet, torm. i conewerius from hancingly glais upon until sip ampeytared all was absawing on the ock hemwimad a friendly all  
+ ----
+iter 18000 (p=288000), loss: 27.540203
+iter 18200 (p=291200), loss: 27.345374
+iter 18400 (p=294400), loss: 27.214922
+iter 18600 (p=297600), loss: 27.261387
+iter 18800 (p=300800), loss: 27.403627
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+  voir. howmy a mather? the didin'smemplopcir.
+"and seact keifid chast vaired.
+sording
+ligs were right two broateres of poavars and and was her all is at the sade cume mysh the was and him, and not," h 
+ ----
+iter 19000 (p=304000), loss: 27.080090
+iter 19200 (p=307200), loss: 26.863845
+iter 19400 (p=310400), loss: 26.751021
+iter 19600 (p=313600), loss: 26.617311
+iter 19800 (p=316800), loss: 26.428423
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+ shing a lond,"
+he palfive
+solagurally." he lasked the us."
+ho masins here the must
+mups
+to the rlow-surfers," a ssebles
+with durinute into greal, "for leachip to sline you munk his recome of the ginin 
+ ----
+iter 20000 (p=320000), loss: 26.506022
+iter 20200 (p=323200), loss: 26.589052
+iter 20400 (p=326400), loss: 26.590444
+iter 20600 (p=329600), loss: 26.676546
+iter 20800 (p=332800), loss: 26.790082
+---- 
+ Starting symbol >>>  i
+Generated text after symbol 
+ lrnce, unte therew tratghing surged."
+bowy boey come toid not
+betury, and coldres shalpy enversed, modd suaded!" were-feetionall glason
+brottled us a
+togery. that that
+murs
+to his challt--'me. stidian 
+ ----
+iter 21000 (p=336000), loss: 27.079639
+iter 21200 (p=339200), loss: 27.049340
+iter 21400 (p=342400), loss: 26.987483
+iter 21600 (p=345600), loss: 26.764196
+iter 21800 (p=348800), loss: 26.767561
+---- 
+ Starting symbol >>>  y
+Generated text after symbol 
+  lony in the friendw of prestionicurely may. in it nicl untel as in the 4 have for yours bisul pary of him. -no, windopes, and to the
+lid, inlackid handence that do have pill. now, loon-for of gom to  
+ ----
+iter 22000 (p=352000), loss: 26.767546
+iter 22200 (p=355200), loss: 26.809934
+iter 22400 (p=358400), loss: 26.757429
+iter 22600 (p=361600), loss: 26.712252
+iter 22800 (p=364800), loss: 26.768426
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ ut brownoush to a mable are back do when enwalvasse. i was facless sours. that's
+should he hould bleated are. soust. "it was the son't.---to mutherowh. empen it was
+bettee in the a prieds that they la 
+ ----
+iter 23000 (p=368000), loss: 27.185817
+iter 23200 (p=371200), loss: 27.080592
+iter 23400 (p=374400), loss: 26.825726
+iter 23600 (p=377600), loss: 26.608307
+iter 23800 (p=380800), loss: 26.679105
+---- 
+ Starting symbol >>>  l
+Generated text after symbol 
+ l passery.
+"i was
+upon in the in he got us holw we skin, on diis. thenings, but muth-beddew
+dissinely
+in?"
+who tabse," holmes,- it. beto his
+great."
+"us they have seen aisman."
+i arren, all pas if eve 
+ ----
+iter 24000 (p=384000), loss: 26.533554
+iter 24200 (p=387200), loss: 26.288426
+iter 24400 (p=390400), loss: 26.146921
+iter 24600 (p=393600), loss: 26.112499
+iter 24800 (p=396800), loss: 26.042639
+---- 
+ Starting symbol >>>  s
+Generated text after symbol 
+ ? becals on thairden's looking ay and spemed streaning s'me prones and her, lemore, but we cannous thought with have by lay waven shu, but he
+sheroons powy bam, mannn.
+"when year every could peable sh 
+ ----
+iter 25000 (p=400000), loss: 26.239283
+iter 25200 (p=403200), loss: 26.251139
+iter 25400 (p=406400), loss: 26.355181
+iter 25600 (p=409600), loss: 26.093957
+iter 25800 (p=412800), loss: 26.042562
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ jurh, and sions and
+with himself to the book. i had geten, stall case a magy in distonot up apong, friend i said had course which vaire to ho
+sasp twentured our eabs, she sirn?"
+said his by
+from, of a 
+ ----
+iter 26000 (p=416000), loss: 25.860800
+iter 26200 (p=419200), loss: 25.937469
+iter 26400 (p=422400), loss: 25.814131
+iter 26600 (p=425600), loss: 25.992715
+iter 26800 (p=428800), loss: 26.147083
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ did notive and hi(ss very foom clair past native our
+bight in the
+"ay serth. they was pertce this past little lornel and, buck i refrided citing to, you aurnes at horrid, while mys aloxn, soin's condo 
+ ----
+iter 27000 (p=432000), loss: 26.208705
+iter 27200 (p=435200), loss: 26.014102
+iter 27400 (p=438400), loss: 25.928524
+iter 27600 (p=441600), loss: 25.893733
+iter 27800 (p=444800), loss: 25.738368
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ ke here i agred, and
+he could friends are that me. i have ofher hell wa
+side the
+what it gat we should maks of him wro ick weal of the heart provices, ruary that
+was bufthered, but i such will bely
+a  
+ ----
+iter 28000 (p=448000), loss: 25.630364
+iter 28200 (p=451200), loss: 25.581275
+iter 28400 (p=454400), loss: 25.610619
+iter 28600 (p=457600), loss: 25.539234
+iter 28800 (p=460800), loss: 25.443364
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+ ge and after. i cate when he may. are you were the eading that we
+had the than by
+their queered it,--i did pit toke found
+that you will, we and which and litt. i as yourn parson her to negres, to holu 
+ ----
+iter 29000 (p=464000), loss: 25.412560
+iter 29200 (p=467200), loss: 25.197981
+iter 29400 (p=470400), loss: 25.431630
+iter 29600 (p=473600), loss: 25.818741
+iter 29800 (p=476800), loss: 25.931836
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ cecth. the eart
+dismane my
+clipled doce."" and
+sase of the raciance into more to the fiots. a way in, and for a noth, "let bree lotteming about a gurely lay a
+marberire comp, they, which said
+the
+mols 
+ ----
+iter 30000 (p=480000), loss: 26.300028
+iter 30200 (p=483200), loss: 26.298116
+iter 30400 (p=486400), loss: 26.574250
+iter 30600 (p=489600), loss: 26.616852
+iter 30800 (p=492800), loss: 26.396929
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ note-out on you a gainily or the lrent of
+into getter his could do the door know what is
+each to portery-there was om arwer their hoomen in one hormes.-with a
+hond down blood quiet interesten strot on 
+ ----
+iter 31000 (p=496000), loss: 26.450372
+iter 31200 (p=499200), loss: 26.326824
+iter 31400 (p=502400), loss: 26.214806
+iter 31600 (p=505600), loss: 26.158666
+iter 31800 (p=508800), loss: 25.905243
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ a guence from a chatted
+to sises, and ane it oun mo was clay. i was the wigh stage at were half of him over.
+"when i thenoith it' lookirate only
+kingrous
+becought cornent nonort was out of the sont; a 
+ ----
+iter 32000 (p=512000), loss: 25.740508
+iter 32200 (p=515200), loss: 25.738997
+iter 32400 (p=518400), loss: 25.737376
+iter 32600 (p=521600), loss: 25.792699
+iter 32800 (p=524800), loss: 26.162454
+---- 
+ Starting symbol >>>  s
+Generated text after symbol 
+ el-forty now-as the it. o'lling leather some will heake of saguyem, but would live don and paid, with this. is quite selk and mane into am. at letter. it are a vely chair, to do it in the feltoroumant 
+ ----
+iter 33000 (p=528000), loss: 26.052234
+iter 33200 (p=531200), loss: 25.881730
+iter 33400 (p=534400), loss: 25.703032
+iter 33600 (p=537600), loss: 25.755463
+iter 33800 (p=540800), loss: 25.592094
+---- 
+ Starting symbol >>>  g
+Generated text after symbol 
+ ive ever come.-'jump are," have been coffware good of the good; tolged to niking-us to me 'the conce of them?'
+"in'tore." i asked.'
+"notrinaher other thought. hovel for by mysher that there was she wh 
+ ----
+iter 34000 (p=544000), loss: 25.619027
+iter 34200 (p=547200), loss: 25.708017
+iter 34400 (p=550400), loss: 25.705836
+iter 34600 (p=553600), loss: 25.676732
+iter 34800 (p=556800), loss: 25.712790
+---- 
+ Starting symbol >>>  r
+Generated text after symbol 
+ nar, why cremap?" a hore, a pick about orrsed, can in. with our gating? then wersh the crest of a bealined to be a
+poling agan oppic corder. he could leng fourder was at at fired, at the fackce. was
+t 
+ ----
+iter 35000 (p=560000), loss: 25.541705
+iter 35200 (p=563200), loss: 25.406556
+iter 35400 (p=566400), loss: 25.345063
+iter 35600 (p=569600), loss: 25.459967
+iter 35800 (p=572800), loss: 25.511485
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ to the done which holmos. "yes however, i asked, watsand
+only quistly suffating signes contand, 'shall of the
+chemion, it is that so with his chaen a come, and his
+chatue, and the push a surerts wam a 
+ ----
+iter 36000 (p=576000), loss: 25.464340
+iter 36200 (p=579200), loss: 25.218553
+iter 36400 (p=582400), loss: 24.947344
+iter 36600 (p=585600), loss: 24.779331
+iter 36800 (p=588800), loss: 24.973031
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ over the
+glard catterssacted. the whose one say and samplts tinguriim, or he to end peagall?"
+"they
+ristatining. every stush, and timned
+to be should as frame. left heing out," "your room to a helsel? 
+ ----
+iter 37000 (p=592000), loss: 25.065672
+iter 37200 (p=595200), loss: 25.122576
+iter 37400 (p=598400), loss: 25.066948
+iter 37600 (p=601600), loss: 24.930045
+iter 37800 (p=604800), loss: 24.972147
+---- 
+ Starting symbol >>>  t
+Generated text after symbol 
+  a lighty, whick into surely bround the decairtar the ruth?"
+"ou so done left to gont, those will man of shalica--for here able, but treamonds and inders who pestrair and asty his
+home of for masit wa 
+ ----
+iter 38000 (p=608000), loss: 25.292479
+iter 38200 (p=611200), loss: 25.302490
+iter 38400 (p=614400), loss: 25.094313
+iter 38600 (p=617600), loss: 24.982211
+iter 38800 (p=620800), loss: 24.820368
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+ d i comon i have pelfoct my near from just to sean," he would not left romed.
+"i have from to
+raviem
+broughy ims in
+the frome. even the most, and see it was, and that a sees that you come, and you hav 
+ ----
+iter 39000 (p=624000), loss: 24.941069
+iter 39200 (p=627200), loss: 24.744980
+iter 39400 (p=630400), loss: 24.681573
+iter 39600 (p=633600), loss: 24.633990
+iter 39800 (p=636800), loss: 24.760909
+---- 
+ Starting symbol >>>  a
+Generated text after symbol 
+ s
+very come on found
+was sigate were hatcered. and he is his felle of shaming wowled ap of kindered ed! us. he lot by sumby his left remarked even
+kit
+housers how, as in what could happly all unterisa 
+ ----
+iter 40000 (p=640000), loss: 24.705951
+iter 40200 (p=643200), loss: 24.766199
+iter 40400 (p=646400), loss: 24.857723
+iter 40600 (p=649600), loss: 24.752627
+iter 40800 (p=652800), loss: 24.768434
+---- 
+ Starting symbol >>>  f
+Generated text after symbol 
+  stupb out a ans fers when the motho,, me must draw wheee rather
+his out the atteps other bouskes, mudien. i that i shall not true
+some,n he asked poie sfreel stap a lime
+to-nothted as my kind. you gu 
+ ----
+iter 41000 (p=656000), loss: 24.781810
+iter 41200 (p=659200), loss: 24.933137
+iter 41400 (p=662400), loss: 25.032556
+iter 41600 (p=665600), loss: 25.267661
+iter 41800 (p=668800), loss: 25.278585
+---- 
+ Starting symbol >>>  d
+Generated text after symbol 
+ one when a soon on the
+walk know he his streek to prother has inducide of , usen tounnstocing of noter's
+amer?" empet was aling upon hur retwouting bratching over ginefe, whication, littine which made 
+ ----
+iter 42000 (p=672000), loss: 25.342470
+iter 42200 (p=675200), loss: 25.250971
+iter 42400 (p=678400), loss: 25.237390
+iter 42600 (p=681600), loss: 25.529040
+iter 42800 (p=684800), loss: 25.459213
+---- 
+ Starting symbol >>>  ,
+Generated text after symbol 
+  it said the first,
+"yet, and me that yet."
+"yevel, o. clomest whith iming alw-mong the more disccoughtm
+the recome fartch a shorl be
+presiviom, and i have hard
+aften any, and bessed, furm-dy cast tha 
+ ----
+iter 43000 (p=688000), loss: 25.556080
+iter 43200 (p=691200), loss: 25.421691
+iter 43400 (p=694400), loss: 25.533511
+iter 43600 (p=697600), loss: 25.690937
+iter 43800 (p=700800), loss: 26.011893
+---- 
+ Starting symbol >>>  f
+Generated text after symbol 
+ evo poicl maning poistion, son, awn you inforessh, o wark, sleeping as the some frimiling thiee.
+"as beal very point3m prody biter, and sheullire ently eathed an'e with will i could not lay that i wel 
+ ----
+iter 44000 (p=704000), loss: 25.766391
+iter 44200 (p=707200), loss: 25.815146
+iter 44400 (p=710400), loss: 25.765107
+iter 44600 (p=713600), loss: 25.497301
+iter 44800 (p=716800), loss: 25.254328
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ e will orver for deinly advertial."
+"yes rosounds then he. of him, and there asternates; before three show in his tabsevations of his nee nerst. the finges, tiele is unchart herselves, to,t winding sa 
+ ----
+iter 45000 (p=720000), loss: 24.900524
+iter 45200 (p=723200), loss: 24.971289
+iter 45400 (p=726400), loss: 24.939755
+iter 45600 (p=729600), loss: 24.830244
+iter 45800 (p=732800), loss: 24.789552
+---- 
+ Starting symbol >>>  s
+Generated text after symbol 
+ ol, fagnting intires room where i am you store the tyuth his evilled there, was which was not mrongh
+ad2, mr. rofilled see the about
+your by an ig help, to the resplendater olw cune.
+the way sharge, r 
+ ----
+iter 46000 (p=736000), loss: 24.942777
+iter 46200 (p=739200), loss: 25.017032
+iter 46400 (p=742400), loss: 24.963821
+iter 46600 (p=745600), loss: 24.843112
+iter 46800 (p=748800), loss: 25.015386
+---- 
+ Starting symbol >>>  n
+Generated text after symbol 
+  seely, he?,?"
+"icaw steal froe, and without his say of my arpiness had remaintty strough in the gent wind stading, bo carrectlic of begion of to chalm
+frink of the
+gejinaty. sued."
+"now sust and remi 
+ ----
+iter 47000 (p=752000), loss: 24.935482
+iter 47200 (p=755200), loss: 25.001294
+iter 47400 (p=758400), loss: 25.105961
+iter 47600 (p=761600), loss: 25.069154
+iter 47800 (p=764800), loss: 25.050887
+---- 
+ Starting symbol >>>  r
+Generated text after symbol 
+ . the
+arge, but the difforcusair hall comminess furse on these rewured be-combirnatures a fant now been foroorial.
+37 done atever
+little did sever went his to event dolessimornoly i
+takeres in led thi 
+ ----
+iter 48000 (p=768000), loss: 25.379754
+iter 48200 (p=771200), loss: 25.608420
+iter 48400 (p=774400), loss: 25.375075
+iter 48600 (p=777600), loss: 25.376739
+iter 48800 (p=780800), loss: 25.177414
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ rry," said ohelved i knew, with a matter at the first my instrattly, for i will tall beling. it weid, said holmes weally mysee sone anstorting had oner before sven of the litten, and sletter at a love 
+ ----
+iter 49000 (p=784000), loss: 25.094309
+iter 49200 (p=787200), loss: 25.087989
+iter 49400 (p=790400), loss: 25.000218
+iter 49600 (p=793600), loss: 25.322553
+iter 49800 (p=796800), loss: 25.448373
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ and i have him out a
+certrarn fortagech trover. is with and my laking the
+bewnion's reesprateviseres jooned thinget. he lookedrous proppestion. the fether panied, and leastest of
+it was
+more heads bec 
+ ----
+iter 50000 (p=800000), loss: 25.368528
+iter 50200 (p=803200), loss: 25.193953
+iter 50400 (p=806400), loss: 24.941905
+iter 50600 (p=809600), loss: 24.854585
+iter 50800 (p=812800), loss: 24.897147
+---- 
+ Starting symbol >>>  e
+Generated text after symbol 
+ fait."
+"but he stonether. my
+neaved
+to prase to can me in the nook mea. strangere in genid,' was the best to being. expicuted it only been linst, the dust meanly man we cresper oursly on in the jecule 
+ ----
+iter 51000 (p=816000), loss: 24.794081
+iter 51200 (p=819200), loss: 24.769592
+iter 51400 (p=822400), loss: 24.737535
+iter 51600 (p=825600), loss: 24.423691
+iter 51800 (p=828800), loss: 24.443835
+---- 
+ Starting symbol >>>  .
+Generated text after symbol 
+  give
+the same in the plate before atwe sign's two berd of them!" room nimsegural boint; said.
+"much is halppation expers, of the blate for my aund. you see a scearain, and the porry. for
+your
+wording 
+ ----
+iter 52000 (p=832000), loss: 24.427899
+iter 52200 (p=835200), loss: 24.651503
+iter 52400 (p=838400), loss: 24.507394
+iter 52600 (p=841600), loss: 24.781804
+iter 52800 (p=844800), loss: 24.674640
+---- 
+ Starting symbol >>>  a
+Generated text after symbol 
+ nd from
+the other, my left. to heard in a quaiclece, my
+engersoom. chair heard stiteles, withand.
+how?" i may lid eng as her hibsell stated within accussia
+upon his hheend to glested."
+"yeslording of  
+ ----
+iter 53000 (p=848000), loss: 24.612701
+iter 53200 (p=851200), loss: 24.624803
+iter 53400 (p=854400), loss: 24.471249
+iter 53600 (p=857600), loss: 24.316439
+iter 53800 (p=860800), loss: 24.293423
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ to be no your sid. gride a fine
+town the
+vaired. "i werts with the case and a stong-woots upon she said i and
+wret hrist-bectest, and in a ready fromoher upon the
+reephide one, and away must the for,  
+ ----
+iter 54000 (p=864000), loss: 24.375036
+iter 54200 (p=867200), loss: 24.352526
+iter 54400 (p=870400), loss: 24.308501
+iter 54600 (p=873600), loss: 24.259563
+iter 54800 (p=876800), loss: 24.403154
+---- 
+ Starting symbol >>>  u
+Generated text after symbol 
+  go not
+ond highaling myle-firm.
+in
+the
+decled the favighan in a man at ontent.
+1hore that so.
+"they, spile at first body," sain sherse when they are i stakeness."
+i
+oun way, there was on
+in, as deand 
+ ----
+iter 55000 (p=880000), loss: 24.465645
+iter 55200 (p=883200), loss: 24.574370
+iter 55400 (p=886400), loss: 24.580967
+iter 55600 (p=889600), loss: 25.074832
+iter 55800 (p=892800), loss: 25.099712
+---- 
+ Starting symbol >>>  h
+Generated text after symbol 
+ en, watson, and this bearts.
+"well.
+"that there to be conjucher of vintirial, it advance is a
+string from founding the come a blufe, and the left up on. at to have her kneads. the tiress pase of
+the m 
+ ----
+iter 56000 (p=896000), loss: 25.027925
+iter 56200 (p=899200), loss: 24.980415
+iter 56400 (p=902400), loss: 24.831806
+iter 56600 (p=905600), loss: 24.579399
+iter 56800 (p=908800), loss: 24.614162
+---- 
+ Starting symbol >>>  v
+Generated text after symbol 
+ e."
+the proves a mettinsion our fethanned at eye came so."
+"and a learne. it mades, with
+the ma[nar
+almoleth."
+without of the honios. worl i can was posibly holits-us. i skeplicl
+cond! that is under a 
+ ----
+iter 57000 (p=912000), loss: 24.660223
+iter 57200 (p=915200), loss: 24.623698
+iter 57400 (p=918400), loss: 24.582445
+iter 57600 (p=921600), loss: 24.290391
+iter 57800 (p=924800), loss: 24.242854
+---- 
+ Starting symbol >>>  p
+Generated text after symbol 
+ lession." he, i have
+gratred that miss alongly waps opens out
+in the is. be one course
+in the duds of all felt the feet his pribgely and stipl. staped, "not be the
+tymes, and, aid you?"
+"dut opef in y 
+ ----
+iter 58000 (p=928000), loss: 24.357430
+iter 58200 (p=931200), loss: 24.359811
+iter 58400 (p=934400), loss: 24.485655
+iter 58600 (p=937600), loss: 24.410439
+iter 58800 (p=940800), loss: 24.444814
+---- 
+ Starting symbol >>>  o
+Generated text after symbol 
+ u greated, i was are alued, and have attenered to my imapsed that two deed to lilet-which i taphed high ilmcy goor, hoad her intore that cried."
+"'i assure so dressionalicure you half the bost
+one lir 
+ ----
+iter 59000 (p=944000), loss: 24.278633
+iter 59200 (p=947200), loss: 24.046843
+iter 59400 (p=950400), loss: 24.182000
+iter 59600 (p=953600), loss: 24.218861
+iter 59800 (p=956800), loss: 24.046005
+---- 
+ Starting symbol >>>  w
+Generated text after symbol 
+ hen you, with more windingir revel,
+then? his
+larget of the conneces in his shall out, all tited! we his hand to show such be thinge. ay mo appees, it
+ouncie help, we have him?"
+"yes mire is by this d 
+ ----
+iter 60000 (p=960000), loss: 23.886349
+iter 60200 (p=963200), loss: 23.825266
+iter 60400 (p=966400), loss: 23.832151
+iter 60600 (p=969600), loss: 23.737201
+iter 60800 (p=972800), loss: 23.568131
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ mank it in your refeet for. wond, lio under the
+more had-littled was sole what see comonet matter last of some one.
+she was resented of
+it now who openling a little lines to him.
+"your room
+in the str 
+ ----
+iter 61000 (p=976000), loss: 23.608331
+iter 61200 (p=979200), loss: 23.857869
+iter 61400 (p=982400), loss: 23.976378
+iter 61600 (p=985600), loss: 24.102110
+iter 61800 (p=988800), loss: 24.192557
+---- 
+ Starting symbol >>>   
+Generated text after symbol 
+ so know your. he have clush to
+surreed, the wartem to pily bide's val steptryite i last to a mysite until as i had reapolie. she passe, as you. you had been
+a pobove man great a mouring, after that no 
+ ----
+iter 62000 (p=992000), loss: 24.108036
+iter 62200 (p=995200), loss: 24.168724
+iter 62400 (p=998400), loss: 24.477301
+
+Training time: 244.43 s (255.70 it/s, 4091 chars/s)
+Final smoothed loss: 24.4773
+Saved: results\lstm_cnus_loss.csv, results\lstm_cnus_loss.png, results\lstm_cnus_loss.pdf, results\lstm_cnus_report.pdf, results\lstm_cnus_samples.txt, results\lstm_cnus_summary.json

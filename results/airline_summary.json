@@ -1,0 +1,19 @@
+{
+  "model": "nn.LSTM (PyTorch)",
+  "dataset": "data\\airline-passengers.csv",
+  "dataset_label": "Airline Passengers",
+  "samples": 139,
+  "train_size": 93,
+  "test_size": 46,
+  "seq_length": 4,
+  "hidden_size": 2,
+  "num_layers": 1,
+  "epochs": 2000,
+  "learning_rate": 0.01,
+  "training_seconds": 3.562,
+  "final_train_mse_scaled": 0.001697,
+  "train_mse_original_units": 455.323,
+  "test_mse_original_units": 2654.7,
+  "train_rmse_original_units": 21.338,
+  "test_rmse_original_units": 51.524
+}

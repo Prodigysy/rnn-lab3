@@ -1,0 +1,19 @@
+{
+  "model": "LSTM (min-char-lstm)",
+  "dataset": "data\\cnus-clean.txt",
+  "dataset_chars": 3099238,
+  "vocab_size": 54,
+  "hidden_size": 100,
+  "seq_length": 16,
+  "learning_rate": 0.1,
+  "max_data": 1000000,
+  "iterations": 62500,
+  "chars_processed": 1000000,
+  "training_seconds": 244.429,
+  "total_seconds": 244.43,
+  "iterations_per_second": 255.698,
+  "final_smooth_loss": 24.4773,
+  "initial_smooth_loss": 63.8237,
+  "log_every": 200,
+  "sample_every": 1000
+}
