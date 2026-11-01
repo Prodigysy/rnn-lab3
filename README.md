@@ -10,7 +10,7 @@
 `data/cnus-clean.txt` | Текст для обучения символьных моделей (полное собрание Шерлока Холмса, ~3 МБ). Дефолтный файл для обоих NumPy-скриптов.
 `data/input.txt` | Тот же Шекспир — как вариант входа (Karpathy's Shakespeare).
 `data/airline-passengers.csv`, `data/shampoo.csv` | Временные ряды для `lstm_torch.py`.
-`pdf`-файлы | Методичка лабы и оригинальная статья Hochreiter & Schmidhuber 1997 «Long Short-term Memory».
+`pdf`-файлы | Методичка лабы и оригинальная статья Hochreiter & Schmidhuber 1997 «Long Short-term Memory» (материалы курса, в репозиторий не публикуются).
 
 Общая идея лабы: понять, **как RNN/LSTM работает изнутри** (первый скрипт → второй) и **как её применяют на практике** (третий).
 
